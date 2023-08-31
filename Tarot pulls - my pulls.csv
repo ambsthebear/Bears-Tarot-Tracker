@@ -112,25 +112,29 @@ spr11819,c14wu,King of Cups,Wild Unknown,Water,self,2019-11-08 00:00:00
 spr11819,5wu,Hierophant,Wild Unknown,Earth,self,2019-11-08 00:00:00
 spr11819,p11wu,Page of Pentacles,Wild Unknown,Earth,self,2019-11-08 00:00:00
 spr11819,w11wu,Page of Wands,Wild Unknown,Fire,self,2019-11-08 00:00:00
-spr82123,12wu,Hanged Man,Wild Unknown,Water,self,08/21/2023
-spr82123,c12wu,Knight of Cups,Wild Unknown,Water,self,08/21/2023
-spr82123,s10wu,10 of Swords,Wild Unknown,Air,self,08/21/2023
-spr11919,p8wu,8 of Pentacles,Wild Unknown,Earth,friend,11/09/2019
-spr11919,c3wu,3 of Cups,Wild Unknown,Water,friend,11/09/2019
-spr11919,19wu,Sun,Wild Unknown,Fire,friend,11/09/2019
-spr111019,14wu,Temperance,Wild Unknown,Earth,self,11/10/2019
-spr111019,w13wu,Queen of Wands,Wild Unknown,Fire,self,11/10/2019
-spr111019,s5wu,5 of Swords,Wild Unknown,Air,self,11/10/2019
-spr111019,c5wu,5 of Cups,Wild Unknown,Water,self,11/10/2019
-spr111019,c6wu,6 of Cups,Wild Unknown,Water,self,11/10/2019
-spr111019,p7wu,7 of Pentacles,Wild Unknown,Earth,self,11/10/2019
-spr82323,15gt,Devil,Gentle Tarot,Earth,friend,08/23/2023
-spr82323,w8gt,8 of Wands,Gentle Tarot,Fire,friend,08/23/2023
-spr82323,c1gt,Ace of Cups,Gentle Tarot,Water,friend,08/23/2023
-spr82323,s6gt,6 of Swords,Gentle Tarot,Air,friend,08/23/2023
-spr111019,s10la,10 of Swords,Labrynthos App,Air,self,11/10/2019
-spr111019,p10la,10 of Pentacles,Labrynthos App,Earth,self,11/10/2019
-spr111019,s12la,Knight of Swords,Labrynthos App,Air,self,11/10/2019
-spr111019,13la,Death,Labrynthos App,Water,self,11/10/2019
-spr111019,c3la,3 of Cups,Labrynthos App,Water,self,11/10/2019
-spr111019,s10la,10 of Swords,Labrynthos App,Air,self,11/10/2019
+spr82123,12wu,Hanged Man,Wild Unknown,Water,self,2023-08-21 00:00:00
+spr82123,c12wu,Knight of Cups,Wild Unknown,Water,self,2023-08-21 00:00:00
+spr82123,s10wu,10 of Swords,Wild Unknown,Air,self,2023-08-21 00:00:00
+spr11919,p8wu,8 of Pentacles,Wild Unknown,Earth,friend,2019-11-09 00:00:00
+spr11919,c3wu,3 of Cups,Wild Unknown,Water,friend,2019-11-09 00:00:00
+spr11919,19wu,Sun,Wild Unknown,Fire,friend,2019-11-09 00:00:00
+spr111019,14wu,Temperance,Wild Unknown,Earth,self,2019-11-10 00:00:00
+spr111019,w13wu,Queen of Wands,Wild Unknown,Fire,self,2019-11-10 00:00:00
+spr111019,s5wu,5 of Swords,Wild Unknown,Air,self,2019-11-10 00:00:00
+spr111019,c5wu,5 of Cups,Wild Unknown,Water,self,2019-11-10 00:00:00
+spr111019,c6wu,6 of Cups,Wild Unknown,Water,self,2019-11-10 00:00:00
+spr111019,p7wu,7 of Pentacles,Wild Unknown,Earth,self,2019-11-10 00:00:00
+spr82323,15gt,Devil,Gentle Tarot,Earth,friend,2023-08-23 00:00:00
+spr82323,w8gt,8 of Wands,Gentle Tarot,Fire,friend,2023-08-23 00:00:00
+spr82323,c1gt,Ace of Cups,Gentle Tarot,Water,friend,2023-08-23 00:00:00
+spr82323,s6gt,6 of Swords,Gentle Tarot,Air,friend,2023-08-23 00:00:00
+spr111019,s10la,10 of Swords,Labrynthos App,Air,self,2019-11-10 00:00:00
+spr111019,p10la,10 of Pentacles,Labrynthos App,Earth,self,2019-11-10 00:00:00
+spr111019,s12la,Knight of Swords,Labrynthos App,Air,self,2019-11-10 00:00:00
+spr111019,13la,Death,Labrynthos App,Water,self,2019-11-10 00:00:00
+spr111019,c3la,3 of Cups,Labrynthos App,Water,self,2019-11-10 00:00:00
+spr111019,s10la,10 of Swords,Labrynthos App,Air,self,2019-11-10 00:00:00
+sc83123,17gt,Star,Gentle Tarot,Air,self,08/31/2023
+spr111719,0wu,Fool,Wild Unknown,Air,self,11/17/2019
+spr111719,10wu,Wheel of Fortune,Wild Unknown,Fire,self,11/17/2019
+spr111719,s7wu,7 of Swords,Wild Unknown,Air,self,11/17/2019
